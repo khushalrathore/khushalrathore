@@ -9,7 +9,7 @@ I'm a passionate CS Undergrad with a knack for problem-solving and a keen intere
 - **Languages:** JavaScript, Python, Java, C++
 - **Frameworks:** React.js, Node.js, Django
 - **Databases:** MySQL, MongoDB
-- **Tools & Technologies:** Git, Docker, AWS
+- **Tools & Technologies:** Git
 
 ## Get in Touch
 
