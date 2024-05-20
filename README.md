@@ -15,7 +15,6 @@ I'm a passionate CS Undergrad with a knack for problem-solving and a keen intere
 
 - LinkedIn: [here](https://www.linkedin.com/in/khushalrathore/)
 - Portfolio: [here](khushal.vercel.app)
-- 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat about tech!
 
 
