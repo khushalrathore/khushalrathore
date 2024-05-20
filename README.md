@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey there 👋
 
-<!--
-**khushalrathore/khushalrathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate CS Undergrad with a knack for problem-solving and a keen interest in technology. I enjoy building robust and scalable software solutions that make a positive impact. My journey in the world of programming has been an exciting one, and I'm always eager to learn and explore new technologies. My interests include playing with css also I'm active on [cssbattle.dev](https://cssbattle.dev/player/FxlDwHO7kjYzjUzsFwRJfxPVmlr1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Frameworks:** React.js, Node.js, Django
+- **Databases:** MySQL, MongoDB
+- **Tools & Technologies:** Git, Docker, AWS
+
+## Get in Touch
+
+- LinkedIn: [Click here](https://www.linkedin.com/in/khushalrathore/)
+- Portfolio: [Click here](khushal.vercel.app)
+- 
+Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat about tech!
+
+
+## Fun Fact
+
+Sharks & dolphins hate coding whereas parrots dont.
+
+Thanks for visiting my GitHub profile! 😊
