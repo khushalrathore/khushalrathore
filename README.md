@@ -5,7 +5,7 @@
 
 ## About Me
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;align-items:center;gap:40px">
 <div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -16,10 +16,12 @@
   </a>
 </div>
 </div>
-<div>
-I'm a passionate CS Undergrad with a knack for problem-solving and a keen interest in technology. I enjoy building robust and scalable software solutions that make a positive impact. My journey in the world of programming has been an exciting one, and I'm always eager to learn and explore new technologies. My interests include playing with css also I'm active on [cssbattle.dev](https://cssbattle.dev/player/FxlDwHO7kjYzjUzsFwRJfxPVmlr1)
+<div style="max-width:75ch">
+I'm a passionate CS Undergrad with a knack for problem-solving and a keen interest in technology. I enjoy building robust and scalable software solutions that make a positive impact. My journey in the world of programming has been an exciting one, and I'm always eager to learn and explore new technologies. My interests include playing with css also I'm active on <a href="https://cssbattle.dev/player/FxlDwHO7kjYzjUzsFwRJfxPVmlr1" style="color:yellow; text-decoration:none">cssbattle.dev</a>
 </div>
 </div>
+
+
 ## Skills
 
 - **Languages:** JavaScript, Python, Java, C++
