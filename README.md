@@ -10,9 +10,7 @@ Feel free to reach out to me if you have any questions, collaboration opportunit
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushalrathore) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:25khushal@gmail.com)](mailto:25khushal@gmail.com)
 
-<br>
 </p>
-
 <samp style="display:flex;align-items:center;justify-content:center;flex-direction:column">
 <div>
 <span style="color:rgb(54,124,192)">C++</span> ,
