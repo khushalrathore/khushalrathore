@@ -41,8 +41,6 @@ Feel free to reach out to me if you have any questions, collaboration opportunit
 <span style="color:#E44C30">Git</span><br>
 </div>
 </samp>
-<p style="color: blue;">This text will be blue.</p>
-
 </div>
 
 <br>
