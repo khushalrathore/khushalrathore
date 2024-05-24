@@ -13,14 +13,6 @@ Feel free to reach out to me if you have any questions, collaboration opportunit
 <br>
 </p>
 
-----------------------
-
-<br>
-<br>
-
-
-
-
 <samp style="display:flex;align-items:center;justify-content:center;flex-direction:column">
 <div>
 <span style="color:rgb(54,124,192)">C++</span> ,
