@@ -1,44 +1,64 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<style>
+span{font-weight:900}
+*{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+</style>
 
-## About Me
-
-<div>
-<div style="max-width:50%">
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/khushalrathore/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-</div>
-<div style="max-width:75ch">
-I'm a passionate CS Undergrad with a knack for problem-solving and a keen interest in technology. I enjoy building robust and scalable software solutions that make a positive impact. My journey in the world of programming has been an exciting one, and I'm always eager to learn and explore new technologies. My interests include playing with css also I'm active on <a href="https://cssbattle.dev/player/FxlDwHO7kjYzjUzsFwRJfxPVmlr1" style="color:yellow; text-decoration:none">cssbattle.dev</a>
-</div>
-</div>
-
-
-## Skills
-
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React.js, Node.js, Django
-- **Databases:** MySQL, MongoDB
-- **Tools & Technologies:** Git
-
-## Get in Touch
-
-- Portfolio: [here](khushal.vercel.app)
-
-  
+<p>
+  <br>
+  <br>
+  <samp>Hello there. I'm <a href="https://linkedin.com/in/khushalrathore">Khushal.</a><br>CS Undergrad with a knack for problem-solving and a keen interest in technology. I enjoy building robust and scalable software solutions that make a positive impact. My journey in the world of programming has been an exciting one, and I'm always eager to learn and explore new technologies. My interests include <em>playing</em> with css, also, I'm active on <a href="https://cssbattle.dev" style="color:steelblue">cssbattle.dev</a><br>
+<br>I'm learning Python!<br>
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat about tech!
+<a href="https://khushal.vercel.app" style="color:steelblue">https://khushal.vercel.app</a><br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=khushalrathore)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushalrathore) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:25khushal@gmail.com)](mailto:25khushal@gmail.com)
+
+<br>
+</p>
+
+----------------------
+
+<br>
+<br>
 
 
-## Fun Fact
 
-Sharks & dolphins hate coding whereas parrots dont.
 
-### Thanks for visiting my GitHub profile! 😊
+<samp style="display:flex;align-items:center;justify-content:center;flex-direction:column">
+<div>
+<span style="color:rgb(54,124,192)">C++</span> ,
+<span style="color:rgb(69,111,156)">Python</span> ,
+<span style="color:rgb(243,224,80)">Javascript</span> ,
+<span style="color:rgb(0,0,0)">Zsh</span><br>
+</div>
+<div>
+<span style="color:#61DAFB">ReactJS</span> ,
+<span style="color:#43853D">NodeJS</span> ,
+<span style="color:rgb(69,111,156)">Flask</span><br>
+</div>
+<div>
+<span style="color:#005C84">MySQL</span> ,
+<span style="color:#4EA94B">MongoDB</span><br>
+</div>
+<div>
+<span style="color:#E44C30">Git</span><br>
+</div>
+</samp>
+
+</div>
+
+<br>
+</p>
+
+----------------------
+
+<br>
+<br>
+
+![khushalrathore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=khushalrathore&theme=default&hide_border=false)
