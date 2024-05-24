@@ -4,7 +4,7 @@
   <samp>Hello there. I'm <a href="https://linkedin.com/in/khushalrathore">Khushal.</a><br>CS Undergrad with a knack for problem-solving and a keen interest in technology. I enjoy building robust and scalable software solutions that make a positive impact. My journey in the world of programming has been an exciting one, and I'm always eager to learn and explore new technologies. My interests include <em>playing</em> with css, also, I'm active on <a href="https://cssbattle.dev" style="color:steelblue">cssbattle.dev</a><br>
 <br>I'm learning Python!<br>
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat about tech!
-<a href="https://khushal.vercel.app" style="color:pink">https://khushal.vercel.app</a><br>
+<a href="https://khushal.vercel.app" style="color:steelblue">https://khushal.vercel.app</a><br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=khushalrathore)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushalrathore) 
