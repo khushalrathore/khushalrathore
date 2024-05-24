@@ -41,4 +41,4 @@ Feel free to reach out to me if you have any questions, collaboration opportunit
 
 Sharks & dolphins hate coding whereas parrots dont.
 
-Thanks for visiting my GitHub profile! 😊
+### Thanks for visiting my GitHub profile! 😊
