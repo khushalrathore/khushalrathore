@@ -1,12 +1,3 @@
-<style>
-span{font-weight:900}
-*{
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
-}
-</style>
-
 <p>
   <br>
   <br>
