@@ -12,7 +12,7 @@
 
 <p align="center">
   <a>
-    <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,cpp,py,opencv,flask" />
-    <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite,gcp" />
+    <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,cpp,py,opencv,flask,gcp" />
+    <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite" />
   </a>
 </p>
