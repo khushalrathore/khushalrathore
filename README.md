@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- **🔭 Working On:** Smart Quality projects.
 - **🌱 Learning:** NodeJS for backend development.
 - **👯 Collaboration:** AI/ML projects.
 - **🤔 Need Help With:** Low-level programming.
