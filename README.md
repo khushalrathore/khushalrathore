@@ -4,8 +4,8 @@
 - **🌱 Learning:** NodeJS for backend development.
 - **👯 Collaboration:** AI/ML projects.
 - **🤔 Need Help With:** Low-level programming.
-- **💬 Expertise:** Frontend (React, Next.js, TypeScript), UI/UX, modular code design.
-- **💡 Passion:** Efficient, maintainable code, modular code design.
+- **💬 Expertise:** Frontend (React, Next.js, TypeScript), UI/UX.
+- **💡 Passion:** Efficient, maintainable code & modular code design.
 - **📫 Reach Me:** Open to discussions and collaborations.
 - **😄 Pronouns:** He/Him
 
