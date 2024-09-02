@@ -10,11 +10,11 @@
 
 <p align="center">
   <a>
+    ![khushalrathore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrathore&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
     <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,cpp,py,opencv,flask,gcp" />
     <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite" />
   </a>
 </p>
 
 
-![khushalrathore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrathore&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
