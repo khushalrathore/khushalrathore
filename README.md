@@ -6,6 +6,7 @@
 - 💬 **Expertise** : Frontend (React, Next.js, TypeScript), UI/UX.
 - 💡 **Passion** : Efficient, maintainable code & modular code design.
 
+<div style="background:black;padding:4px;border-radius:4px">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrathore&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="khushalrathore's Top Languages" />
 </p>
@@ -14,3 +15,4 @@
   <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,cpp,py,opencv,flask,gcp" alt="Skill Icons" />
   <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite" alt="Skill Icons" />
 </p>
+</div>
