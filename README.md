@@ -8,8 +8,8 @@
 - **💡 Passionate About:** Crafting efficient, maintainable code and staying up-to-date with the latest trends in web development and cloud technologies.
 - **📫 How to Reach Me:** Open to discussions and networking; feel free to connect for any collaboration opportunities.
 - **😄 Pronouns:** He/Him
-- <p align="center">
+ <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,bash,gcp,github,neovim,c++,py,opencv,flask,html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite" />
   </a>
 </p>
