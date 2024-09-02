@@ -7,9 +7,9 @@
 - 💡 **Passion** : Efficient, maintainable code & modular code design.
 
 <div align="center">
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrathore&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="khushalrathore's Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,cpp,py,opencv,flask,gcp" alt="Skill Icons" />
