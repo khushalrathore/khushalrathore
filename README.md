@@ -19,3 +19,5 @@
 
 
 ![khushalrathore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khushalrathore&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khushalrathore)](https://github.com/ryo-ma/github-profile-trophy)
