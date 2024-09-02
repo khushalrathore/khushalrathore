@@ -10,6 +10,6 @@
 - **😄 Pronouns:** He/Him
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,gcp,github,neovim,cpp,py,opencv,flask,html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=bash,git,github,neovim,cpp,py,opencv,flask,html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite,gcp" />
   </a>
 </p>
