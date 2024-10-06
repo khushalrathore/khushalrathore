@@ -1,11 +1,11 @@
 # About Me:
-🌱 I'm learning NodeJS for backend development.<br><br>👯 Active for collaborations in AI/ML projects.<br><br>🤔 I need help with Low-level programming.<br><br>💬 My Expertise include Frontend (React, Next.js, TypeScript), UI/UX design.<br><br>💡 Passionate about efficient, maintainable code & modular code design.<br>
+🌱 I'm learning NodeJS for backend development.<br><br>👯 Active for collaborations in AI/ML projects.<br><br>🤔 I need help with Low-level programming.<br><br>💬 My proficiency includes Frontend (React, Next.js, TypeScript), UI/UX design.<br><br>💡 Passionate about efficient, maintainable code & modular code design.<br>
 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RyEyPBGf9x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khushalrathore_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushalrathore) 
 
-# 💻 Worked with:
+# 💻 Tech Stack:
 
 <p align="center">
   <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,ruby,cpp,py,opencv,flask,gcp" alt="Skill Icons" />
@@ -24,8 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khushalrathore&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 </div>
