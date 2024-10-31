@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 
 <p align="center">
-  <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,ruby,cpp,py,opencv,flask,gcp" alt="Skill Icons" />
+  <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,ruby,cpp,java,py,opencv,flask,gcp" alt="Skill Icons" />
   <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=html,md,css,sass,tailwind,js,ts,webpack,npm,react,nextjs,vercel,vite" alt="Skill Icons" />
 </p>
 
