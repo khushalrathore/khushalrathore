@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RyEyPBGf9x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khushalrathore_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushalrathore) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack (& explored~ stack):
 
 <p align="center">
   <img style="pointer-events: none;" src="https://skillicons.dev/icons?i=bash,git,github,neovim,ruby,cpp,java,py,opencv,flask,gcp" alt="Skill Icons" />
