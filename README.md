@@ -1,5 +1,5 @@
 # About Me:
-🌱learning NodeJS for backend development.<br><br>👯 Active for collaborations in AI/ML projects.<br><br>🤔 need help with Low-level programming.<br><br>💬 Frontend (React, Next.js, TypeScript), UI/UX design.<br><br>💡 Passionate about efficient, maintainable code & modular code design.<br>
+🌱 learning NodeJS for backend development.<br><br>👯 active for collaborations in AI/ML projects.<br><br>🤔 need help with Low-level programming.<br><br>💬 frontend (React, Next.js, TypeScript), UI/UX design.<br><br>💡 passionate about efficient, maintainable code & modular code design.<br>
 
 
 ## 🌐 Socials:
